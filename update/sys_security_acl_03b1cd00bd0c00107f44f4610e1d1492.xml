@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_cdltd_testing_ap_testing_scope</description>
+        <name>x_cdltd_testing_ap_testing_scope</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 15:45:39</sys_created_on>
+        <sys_id>03b1cd00bd0c00107f44f4610e1d1492</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_testing_ap_testing_scope</sys_name>
+        <sys_package display_value="Testing Application Access" source="x_cdltd_testing_ap">c8214900bd0c00107f44f4610e1d141f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Application Access">c8214900bd0c00107f44f4610e1d141f</sys_scope>
+        <sys_update_name>sys_security_acl_03b1cd00bd0c00107f44f4610e1d1492</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 15:45:39</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

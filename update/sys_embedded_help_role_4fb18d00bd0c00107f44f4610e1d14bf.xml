@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_testing_ap.testing_scope_user" name="x_cdltd_testing_ap.testing_scope_user">0bb18d00bd0c00107f44f4610e1d14bd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 15:45:39</sys_created_on>
+        <sys_id>4fb18d00bd0c00107f44f4610e1d14bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0bb18d00bd0c00107f44f4610e1d14bd</sys_name>
+        <sys_package display_value="Testing Application Access" source="x_cdltd_testing_ap">c8214900bd0c00107f44f4610e1d141f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Application Access">c8214900bd0c00107f44f4610e1d141f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4fb18d00bd0c00107f44f4610e1d14bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 15:45:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
